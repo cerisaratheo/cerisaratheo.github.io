@@ -1,4 +1,4 @@
-theme: 
-  minima:
-    skin: dark
+theme: minima
+minima:
+  skin: dark
 title: Astrophotographie par Theo Cerisara
