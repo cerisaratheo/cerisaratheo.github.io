@@ -1,5 +1,5 @@
 ![m16](/assets/m16_compressed.png)
-m16 ou nebuleuse de l'aigle au skywatcher quattro 200p avec un canon eos 60d defiltré partiel + filtre astronomik CLS, le 27/08/2022, ISO 800, 62 x 1min soit 1h2min de pose
+m16 ou nebuleuse de l'aigle avec les piliers de la création au centre, au skywatcher quattro 200p avec un canon eos 60d defiltré partiel + filtre astronomik CLS, le 27/08/2022, ISO 800, 62 x 1min soit 1h2min de pose
 
 [voir l'image en haute resolution](https://drive.google.com/file/d/17SyBd67XKpexK3cxw2NKjnjw1jeCcXbp/view?usp=sharing)
 
