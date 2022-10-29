@@ -1,3 +1,8 @@
+![lune en couleurs exagerees](/assets/lune_09-10-2022_stacked_crop_compressed.png)
+La lune prise le 09/10/2022, empilement de 263 photos, ISO 100 1/2000s, saturation un peu poussée pour faire apparaître les couleurs invisibles à l'oeil nu liées à la géologie de la surface de la lune.
+
+[voir l'image en haute resolution](https://drive.google.com/file/d/1VSErYD2seqc6T-qsOp4GSUt_LhMsnDg9/view?usp=sharing)
+
 ![m16](/assets/m16_compressed.png)
 m16 ou nebuleuse de l'aigle avec les piliers de la création au centre, au skywatcher quattro 200p avec un canon eos 60d defiltré partiel + filtre astronomik CLS, le 27/08/2022, ISO 800, 62 x 1min soit 1h2min de pose
 
