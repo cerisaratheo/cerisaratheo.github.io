@@ -1,3 +1,8 @@
+![M42](/assets/M42_compressed.JPG)
+M42 ou la nébuleuse d'Orion au skywatcher quattro 200p avec un canon eos 60d defiltré partiel + filtre astronomik CLS le 29/01/2023, ISO 800, empilement de 189 poses de 10sec, soit environ 1/2h de pose
+
+[voir l'image en haute résolution](https://drive.google.com/file/d/1eV5vKXgG8v7mWrlTt-_uOi4v45GE9Svf/view?usp=share_link)
+
 ![lune en couleurs exagerees](/assets/lune_09-10-2022_stacked_crop_compressed.png)
 La lune prise le 09/10/2022, empilement de 263 photos, ISO 100 1/2000s, saturation un peu poussée pour faire apparaître les couleurs invisibles à l'oeil nu liées à la géologie de la surface de la lune.
 
