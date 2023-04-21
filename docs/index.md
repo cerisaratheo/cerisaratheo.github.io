@@ -1,4 +1,4 @@
-![M42](/assets/M42_compressed.JPG)
+![M42](/assets/M42_compressed.png)
 M42 ou la nébuleuse d'Orion au skywatcher quattro 200p avec un canon eos 60d defiltré partiel + filtre astronomik CLS le 29/01/2023, ISO 800, empilement de 189 poses de 10sec, soit environ 1/2h de pose
 
 [voir l'image en haute résolution](https://drive.google.com/file/d/1eV5vKXgG8v7mWrlTt-_uOi4v45GE9Svf/view?usp=share_link)
