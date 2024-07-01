@@ -23,6 +23,3 @@ NGC 6960 ou nebuleuse du balai de sorcière, prise au skywatcher quattro 200p av
 
 [voir l'image en haute resolution](https://drive.google.com/file/d/17KqQD7saxf4icqRodT4VHVdASflL30YW/view?usp=sharing)
 
-
-![la lune](/assets/lune.JPG)
-quasi pleine lune au skywatcher quattro 200p avec un canon eos 60d le 13/08/2022, ISO 100, pose de 1/1250sec
