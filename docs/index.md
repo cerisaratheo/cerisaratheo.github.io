@@ -30,7 +30,7 @@ Amas d'étoiles des pleiades ou M45 [wikipedia](https://fr.wikipedia.org/wiki/Pl
 ![M42](/assets/M42_compressed.png)
 M42 ou la nébuleuse d'Orion [wikipedia](https://fr.wikipedia.org/wiki/Nébuleuse_d'Orion)
 
-29/01/2023, skywatcher quattro 200p (200/800) monté sur skywatcher EQ6-R pro, un canon eos 60d partiellement défiltré + filtre astronomik CLS, ISO 800, empilement de 189 poses de 10sec, soit environ 1/2h de pose
+29/01/2023, skywatcher quattro 200p (200/800) monté sur skywatcher EQ6-R pro, canon eos 60d partiellement défiltré + filtre astronomik CLS, ISO 800, empilement de 189 poses de 10sec, soit environ 1/2h de pose
 
 [voir l'image en haute résolution](https://drive.google.com/file/d/1av6Lv8P9ntgjWCifojjURZ6r_1p5P_4N/view?usp=sharing)
 
