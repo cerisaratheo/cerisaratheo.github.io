@@ -35,7 +35,7 @@ M42 ou la nébuleuse d'Orion [wikipedia](https://fr.wikipedia.org/wiki/Nébuleus
 [voir l'image en haute résolution](https://drive.google.com/file/d/1av6Lv8P9ntgjWCifojjURZ6r_1p5P_4N/view?usp=sharing)
 
 ![lune en couleurs exagerees](/assets/lune_09-10-2022_stacked_crop_compressed.png)
-La lune prise le 09/10/2022, empilement de 263 photos, ISO 100 1/2000s, saturation un peu poussée pour faire apparaître les couleurs invisibles à l'oeil nu liées à la géologie de la surface de la lune.
+La lune prise le 09/10/2022, empilement de 263 photos, ISO 100 1/2000s, saturation un peu poussée pour faire apparaître les couleurs invisibles à l'oeil nu liées aux minéraux présents à la surface de la lune (orange = oxyde de fer, bleu = titane).
 
 [voir l'image en haute resolution](https://drive.google.com/file/d/1Zls3Fr6_TfMWMVFqAH3Nvbkb7k3Z4aur/view?usp=sharing)
 
